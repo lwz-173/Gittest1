@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class TestDemo {
 
 	//branch2
+	//branch2
 	static int number = 0;
 
 	public static void main(String[] args) {
