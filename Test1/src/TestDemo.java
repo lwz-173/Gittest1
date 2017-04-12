@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TestDemo {
 
-	static int number = 0;
+	static int number = 1;
 
 	public static void main(String[] args) {
 
