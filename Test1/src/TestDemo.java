@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TestDemo {
 
 	//branch2
-	static int number = 5;
+	static int number = 11;
 
 	public static void main(String[] args) {
 
